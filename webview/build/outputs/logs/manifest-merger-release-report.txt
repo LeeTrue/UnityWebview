@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:3:7-38
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+queries
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:6:5-51:15
+package#kr.co.samsungcard.mpocket
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:8:9-61
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:8:18-58
+package#com.shcard.smartpay
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:9:9-55
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:9:18-52
+package#com.shinhancard.smartshinhan
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:10:9-64
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:10:18-61
+package#com.kbcard.cxh.appcard
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:11:9-58
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:11:18-55
+package#com.kbstar.liivbank
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:12:18-52
+package#com.kbstar.reboot
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:13:9-53
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:13:18-50
+package#kvp.jjy.MispAndroid320
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:14:9-58
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:14:18-55
+package#com.hanaskcard.paycla
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:15:9-57
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:15:18-54
+package#kr.co.hanamembers.hmscustomer
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:16:9-65
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:16:18-62
+package#com.lcacApp
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:17:9-47
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:17:18-44
+package#nh.smart.nhallonepay
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:18:9-56
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:18:18-53
+package#com.wooricard.smartapp
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:19:9-58
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:19:18-55
+package#com.hyundaicard.appcard
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:20:18-56
+package#kr.co.citibank.citimobile
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:21:18-58
+package#com.hanaskcard.rocomo.potal
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:24:9-63
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:24:18-60
+package#com.lumensoft.touchenappfree
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:25:18-61
+package#com.TouchEn.mVaccine.webs
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:28:18-58
+package#com.ahnlab.v3mobileplus
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:29:9-59
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:29:18-56
+package#kr.co.shiftworks.vguardweb
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:30:9-62
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:30:18-59
+package#com.samsung.android.spay
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:33:9-60
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:33:18-57
+package#com.samsung.android.spaylite
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:34:9-64
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:34:18-61
+package#com.kakao.talk
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:35:9-50
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:35:18-47
+package#com.nhn.android.search
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:36:9-58
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:36:18-55
+package#com.ssg.serviceapp.android.egiftcertificate
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:37:9-79
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:37:18-76
+package#com.nhnent.payapp
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:38:9-53
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:38:18-50
+package#com.lge.lgpay
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:39:9-49
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:39:18-46
+package#com.lottemembers.android
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:40:9-60
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:40:18-57
+package#com.tencent.mm
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:41:18-47
+package#viva.republica.toss
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:42:9-55
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:42:18-52
+package#com.kftc.bankpay.android
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:45:9-60
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:45:18-57
+package#com.sktelecom.tauth
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:48:9-55
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:48:18-52
+package#com.kt.ktauth
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:49:9-49
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:49:18-46
+package#com.lguplus.smartotp
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:50:9-56
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:50:18-53
+uses-permission#android.permission.INTERNET
+ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:52:5-67
+	android:name
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml:52:22-64
+uses-sdk
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+		ADDED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
+		INJECTED from C:\UnityProject\webview_adroid\webview\src\main\AndroidManifest.xml
