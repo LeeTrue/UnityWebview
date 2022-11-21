@@ -1,7 +1,7 @@
 # UnityWebview
 
-¿ÀÇÂ¼Ò½º
+unity webview ì˜¤í”ˆ ì†ŒìŠ¤
 https://github.com/gree/unity-webview 
 
-Nicepay API Ãß°¡ Àû¿ë
+Nicepay API ì¶”ê°€ ì ìš©
 https://www.notion.so/WebView-bd82c69bb326433e95a92d470168b809
